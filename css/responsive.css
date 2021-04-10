@@ -1,0 +1,8 @@
+
+
+@media (min-width: 500px) and (max-width: 699px){
+    .imagen2 { width: 25%; border: rgb(14, 15, 15);}
+}
+@media (min-width: 700px) {
+    .imagen2 { width: 50%;}
+}

@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@300&display=swap');
+
+body{background: rgb(114, 112, 245);
+margin: 0px;
+border: 20px solid rgb(218, 198, 20); background: url(img/campo.jpeg)}
+#Logo{width: 100px;}
+
+.navbar-engranajes {background: rgb(164, 199, 38);}
+
+#titulo-prueba{font-family: Georgia, 'Times New Roman', Times, serif ; color: rgb(218, 24, 24);font-size: 14mm;}
+
+p{font-size: 6mm;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(134, 9, 9);
+text-align:center;}
+label{color: rgb(60, 56, 56); font-size: 4mm;font-weight: bold;}
+h1 { text-align: center;}
+
+.contenedor-flex {width: 100%;
+    height: 215px; 
+    display:flex;
+    flex-wrap: wrap}
+
+    .elemento{
+        background-color: rgb(18, 75, 129);
+        width: 24%;
+        height: 215px;
+        border: 4px solid rgb(223, 73, 14);    
+        text-align: center;    
+        color:cornsilk;
+        font-size: 13mm;    
+        }
+
+    .imagen {
+        width: 100%;
+        height: 215px;
+    }
+
+    th {background-color: yellowgreen;}
+
+    .cuadro1 {
+        position: relative;
+        top: 40px;
+        bottom: 70px ;
+        left: 50px;
+        right: 20px;
+    }
